@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Messanger App UI</string>
+    <string name="chats">Chats</string>
+    <string name="search">Search</string>
+    <string name="ogabek_matyakubov">Ogabek Matyakubov</string>
+    <string name="ogabek_has_just_sent_a_voice_message_fri">Ogabek has just sent a voice message. Fri</string>
+</resources>
